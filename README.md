@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Store of Knowledge](https://medium.com/@wilson.a.jacob/the-store-of-knowledge-883d301e996b?source=rss-ff6afb919b6f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
